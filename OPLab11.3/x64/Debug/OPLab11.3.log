@@ -1,0 +1,6 @@
+﻿  OPLab11.3.cpp
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab11\OPLab11.3\OPLab11.3.cpp(22,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab11\OPLab11.3\OPLab11.3.cpp(33,12): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab11\OPLab11.3\OPLab11.3.cpp(33,12): message : placeholders and their parameters expect 2 variadic arguments, but 0 were provided
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab11\OPLab11.3\OPLab11.3.cpp(33,12): message : the missing variadic argument 1 is required by format string '%d'
+  OPLab11.3.vcxproj -> C:\Users\Oleksandr\Desktop\лабивізуал\OPLab11\x64\Debug\OPLab11.3.exe
